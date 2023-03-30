@@ -1,0 +1,1 @@
+{"name":"Local: alk","url":"f:\\codeforces competative programming\\alk.cpp","tests":[{"id":1679239814644,"input":"2\n3 2 1\n3 1 2","output":"ab\nabc\nabcd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codeforces competative programming\\alk.cpp","group":"local","local":true}
